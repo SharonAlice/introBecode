@@ -1,0 +1,63 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+}
+
+.titre {
+    height: 10%;
+    background-color: #9effb8;
+}
+
+.titre p {
+    text-align: center;
+    font-family: 'Lucida Sans';
+    font-size: 40px;
+    margin: 0;
+} 
+
+div .info {
+    text-align: center;
+    display: block;
+    margin-top: 30px;
+} 
+
+.parent1 {
+    height: 45%;
+    display: flex;
+}
+
+.parent2 {
+    height: 45%;
+    display: flex;
+}
+
+.enfant1 {
+    height: 100%;
+    width: 50%;
+    background-color: #74b5c7;
+}
+
+.enfant2 {
+    height: 100%;
+    width: 50%;
+    background-color: #7cf4d3;
+}
+
+.avortement1 {
+    height: 100%;
+    width: 50%;
+    background-color: #d46ce7;
+}
+
+.avortement2 {
+    height: 100%;
+    width: 50%;
+    background-color: #e9f259;
+}
+
+img {
+    height: 120px;
+    width: 120px;
+}
