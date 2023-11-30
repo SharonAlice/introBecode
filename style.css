@@ -10,10 +10,14 @@ body {
     background-color: #9effb8;
 }
 
+p {
+    font-size: 20x;
+}
+
 .titre p {
     text-align: center;
     font-family: 'Lucida Sans';
-    font-size: 40px;
+    font-size: 50px;
     margin: 0;
 } 
 
@@ -58,6 +62,6 @@ div .info {
 }
 
 img {
-    height: 120px;
-    width: 120px;
+    height: 80px;
+    width: 80px;
 }
