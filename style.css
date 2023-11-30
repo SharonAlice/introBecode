@@ -11,7 +11,7 @@ body {
 }
 
 p {
-    font-size: 20x;
+    font-size: 20px;
 }
 
 .titre p {
@@ -24,44 +24,34 @@ p {
 div .info {
     text-align: center;
     display: block;
-    margin-top: 30px;
+    padding-top: 30px;
 } 
 
-.parent1 {
-    height: 45%;
-    display: flex;
-}
-
-.parent2 {
-    height: 45%;
-    display: flex;
-}
-
 .enfant1 {
-    height: 100%;
-    width: 50%;
+    height: 50%;
+    width: 100%;
     background-color: #74b5c7;
 }
 
 .enfant2 {
-    height: 100%;
-    width: 50%;
+    height: 50%;
+    width: 100%;
     background-color: #7cf4d3;
 }
 
 .enfant3 {
-    height: 100%;
-    width: 50%;
+    height: 50%;
+    width: 100%;
     background-color: #d46ce7;
 }
 
 .enfant4 {
-    height: 100%;
-    width: 50%;
+    height: 50%;
+    width: 100%;
     background-color: #e9f259;
 }
 
 img {
-    height: 80px;
-    width: 80px;
+    height: 100px;
+    width: 100px;
 }
